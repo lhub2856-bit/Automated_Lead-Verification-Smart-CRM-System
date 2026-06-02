@@ -60,5 +60,7 @@ Marketing pipelines
 Startup customer intake systems
 👨‍💻 Author
 Developed by Annum Nisar
+demo video link
+https://drive.google.com/file/d/1BipKHgCIRbIY5mVBBXzNzS15-wNoWCmO/view?usp=drive_link
 
 
